@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🧑‍🔬 About Me
-- 🎓 Senir grade of Mechanical Engineering student at **Chungbuk National University**
-- 🔬 Researcher at **Green Engine & Energy System Laboratory (GENESYS Lab)**
-- 🎯 **Research Interests:** Soft Robotics (Auxetic Tubular Grippers), EV Thermal Management (Heat pump), Structural Optimization
+- 🎓 Senior Mechanical Engineering student at **Chungbuk National University**
+- 🔬 Scholarship Researcher at **Green Engine & Energy System Laboratory (GENESYS Lab)**
+- 🎯 **Research Interests:** Inverse Design, Generative Design, EV Thermal Management (Heat pump)
 
 ## 💼 Experience
 - **Bosch Electrical Drives** (보쉬전장)
