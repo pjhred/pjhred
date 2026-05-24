@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🧑‍🔬 About Me
-- 🎓 3rd-year Mechanical Engineering student at **Chungbuk National University**
+- 🎓 Senir grade of Mechanical Engineering student at **Chungbuk National University**
 - 🔬 Researcher at **Green Engine & Energy System Laboratory (GENESYS Lab)**
-- 🚀 Participating in the **Cortex** startup project (developing rescue equipment)
-- 🎯 **Research Interests:** Soft Robotics (Auxetic Tubular Grippers), EV Thermal Management (R290 Systems), Structural Optimization
+- 🚀 
+- 🎯 **Research Interests:** Soft Robotics (Auxetic Tubular Grippers), EV Thermal Management (Heat pump), Structural Optimization
 
 ## 💻 Tech Stack
 **Programming & Machine Learning**
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 ## 🔭 Current Projects & Research
 - **Auxetic Tubular Gripper:** Developing a tendon-driven 3D-printed soft gripper utilizing contraction mechanisms (opposite to stent principles).
-- **EV Thermal Management:** Modeling and simulating R290 (Propane) heat pump systems for electric vehicles.
+- **EV Thermal Management:** Modeling and simulating heat pump systems for electric vehicles.
 - **Structural Optimization:** Applying BPNN (Backpropagation Neural Networks) and Genetic Algorithms (GA) for mechanical structure optimization.
 
 ## 📬 Contact
-<a href="mailto:이메일주소를입력하세요@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: pjhred4647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ---
 
