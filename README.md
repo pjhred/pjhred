@@ -1,8 +1,6 @@
 ## Hi there 
 
 
-**pjhred/pjhred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <div align="center">
   <h1>Hi there, I'm Jong-hyuk Park </h1>
