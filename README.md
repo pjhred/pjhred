@@ -25,8 +25,12 @@ Here are some ideas to get you started:
 ## 🧑‍🔬 About Me
 - 🎓 Senir grade of Mechanical Engineering student at **Chungbuk National University**
 - 🔬 Researcher at **Green Engine & Energy System Laboratory (GENESYS Lab)**
-- 🚀 
 - 🎯 **Research Interests:** Soft Robotics (Auxetic Tubular Grippers), EV Thermal Management (Heat pump), Structural Optimization
+
+## 💼 Experience
+- **Bosch Electrical Drives** (보쉬전장)
+  - **Role:** Intern @ TS Development Team
+  - **Period:** Jan 2026 – Jun 2026
 
 ## 💻 Tech Stack
 **Programming & Machine Learning**
