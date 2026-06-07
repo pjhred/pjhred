@@ -11,7 +11,6 @@
 
 ## About Me
 -  Senior Mechanical Engineering student at **Chungbuk National University**
--  Scholarship Researcher at **Green Engine & Energy System Laboratory (GENESYS Lab)**
 -  **Research Interests:** Inverse Design, Generative Design, EV Thermal Management (Heat pump)
 
 ##  Experience
