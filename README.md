@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Jong-hyuk Park </h1>
-  <h3>Mechanical Engineering | Researcher @ GENESYS Lab</h3>
+  <h3>Mechanical Engineering
 </div>
 
 <br/>
