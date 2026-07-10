@@ -11,7 +11,7 @@
 
 ## About Me
 -  Senior Mechanical Engineering student at **Chungbuk National University**
--  **Research Interests:** Inverse Design, Generative Design, EV Thermal Management (Heat pump)
+-  **Research Interests:** PINN, Surrogate model, Inverse Design, Generative Design, EV Thermal Management (Heat pump)
 
 ##  Experience
 - **Bosch Electrical Drives** (보쉬전장)
