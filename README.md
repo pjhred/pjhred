@@ -38,7 +38,3 @@
 <a href="mailto: pjhred4647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkjonghyuk&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
